@@ -8,50 +8,71 @@
   <a href="https://www.linkedin.com/in/akrista/"><img src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
       alt="LinkedIn"
     /></a>
-  <a href="https://twitter.com/akristax"><img src="https://img.shields.io/badge/follow-%40akristax-1DA1F2?logo=twitter&style=flat&label=Twitter&color=0072b1&logoColor=ffffff"
+  <a href="https://twitter.com/notakrista"><img src="https://img.shields.io/badge/follow-%40notakrista-1DA1F2?logo=twitter&style=flat&label=Twitter&color=0072b1&logoColor=ffffff"
       alt="Twitter"
     /></a>
     <a href="https://www.youtube.com/channel/UCXJa_ZGSEtalwFNbsupmjtg"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UCXJa_ZGSEtalwFNbsupmjtg?style=flat&color=0072b1&logoColor=ffffff&logo=youtube&label=Youtube"></a>
       <a href="https://discordapp.com/users/Akrista#1410"><img alt="Discord" src="https://img.shields.io/discord/354241190947717120?style=flat&color=0072b1&logoColor=ffffff&logo=discord&label=Discord"></a>
   </br>
   </br>
-  <a href="https://discordapp.com/users/Akrista#1410">
-  <img align="right" src="https://lanyard.cnrad.dev/api/130525871277735937" alt="akrista" />
-  </a>
 
-  <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
-  </a>
-  </p>
-<a href="https://app.daily.dev/akrista"><img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=default&r=hj6" width="256" align="right" alt="Akrista's Dev Card"/></a>
-
-- 🔭 I’m currently working on: **[TBTB Global](https://tbtb.global/)**
+- 🔭 I'm currently working on: **[TBTB Global](https://tbtb.global/)**
 
 - 📫 How to reach me: **info@notakrista.com**
 
 - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 
 </br>
-</br>
-</br>
-</br>
-</br>
 
-## 📊 Stats Summary
+<table style="border: none; border-collapse: collapse; width: 100%;">
+<tr>
+<td valign="top" width="50%" style="border: none;" align="center">
+
+<a href="https://discordapp.com/users/Akrista#1410">
+<img src="https://lanyard.cnrad.dev/api/130525871277735937" width="100%" style="max-width: 400px;" alt="Akrista's Discord Status" />
+</a>
+
+</td>
+<td valign="top" width="50%" style="border: none;" align="center">
+
+<a href="https://app.daily.dev/akrista">
+<img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=wide&r=s7y" width="100%" style="max-width: 400px;" alt="Akrista's Daily Dev Card"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</br>
 
 <details>
 <summary>💻 GitHub Stats</summary>
 
 </br>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
+</a>
+
+</br>
+
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td valign="top" width="50%" style="border: none;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
 </a>
 
+</td>
+<td valign="top" width="50%" style="border: none;">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrista&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Most Used Languages" />
 </a>
+
+</td>
+</tr>
+</table>
 
 **GitHub Profile Stats are generated using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
 
