@@ -95,13 +95,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 526.3 kB Used in GitHub's Storage 
+> 📦 525.8 kB Used in GitHub's Storage 
  > 
-> 🏆 227 Contributions in the Year 2025
+> 🏆 229 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -122,7 +122,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 00:38:07 UTC
+ Last Updated on 04/11/2025 00:35:05 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
