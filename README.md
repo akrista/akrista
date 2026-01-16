@@ -93,17 +93,17 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C437%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C451%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 551.5 kB Used in GitHub's Storage 
+> 📦 552.2 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 44 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -111,6 +111,50 @@
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2579 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌆 Daytime                5118 commits        █████████░░░░░░░░░░░░░░░░   37.96 % 
+🌃 Evening                5419 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌙 Night                  367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2855 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Tuesday                  2060 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                2127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 1122 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Friday                   1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 1345 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Sunday                   2224 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+SQL                      26 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.97 % 
+JSON                     12 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+YAML                     11 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+PHP                      8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Other                    4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+
+🔥 Editors: 
+Windsurf                 28 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   38.99 % 
+Cursor                   27 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.39 % 
+Neovim                   13 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Excel                    4 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+
+💻 Operating System: 
+Windows                  49 hrs 51 mins      █████████████████░░░░░░░░   67.54 % 
+Linux                    23 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.46 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -124,7 +168,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 00:36:28 UTC
+ Last Updated on 16/01/2026 00:40:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
