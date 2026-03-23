@@ -93,7 +93,7 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C059%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C066%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -101,30 +101,75 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 579.0 kB Used in GitHub's Storage 
+> 📦 579.4 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2026
+> 🏆 191 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 124 Public Repositories 
+> 📜 125 Public Repositories 
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2920 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+🌆 Daytime                6261 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌃 Evening                5588 commits        █████████░░░░░░░░░░░░░░░░   36.92 % 
+🌙 Night                  368 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3354 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Tuesday                  2327 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Thursday                 1375 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Friday                   2100 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 1397 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   2303 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+PHP                      17 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+SQL                      14 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Bash                     10 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Git Config               9 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Other                    7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+
+🔥 Editors: 
+Windsurf                 40 hrs 59 mins      ███████████████░░░░░░░░░░   60.10 % 
+VS Code                  17 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Neovim                   5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Claude Code              2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+OpenCode                 1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+💻 Operating System: 
+Windows                  64 hrs 41 mins      ████████████████████████░   94.84 % 
+Linux                    3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Svelte                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+PHP                      19 repos            ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Svelte                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 22/03/2026 00:49:34 UTC
+ Last Updated on 23/03/2026 00:52:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
