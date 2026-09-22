@@ -1,81 +1,132 @@
-# Hello there! 👋
+<div align="center">
 
-### I'm Jorge Thomas, a computer geek who loves to code, so why not get paid for it?
+# Hi there, I'm Jorge Thomas 👋
+### Lead Data & Systems Engineer • Senior Full-Stack Architect • Open Source Builder
+
+[![Profile Views](https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=fabd2f&style=flat-square)](https://github.com/akrista)
+[![Website](https://img.shields.io/badge/Workbench-notakrista.com-fe8019?style=flat-square&logo=google-chrome&logoColor=white)](https://notakrista.com)
+[![Digital Garden](https://img.shields.io/badge/Garden-rockery.notakrista.com-8ec07c?style=flat-square&logo=quartz&logoColor=white)](https://rockery.notakrista.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akrista-458588?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akrista)
+[![Calendar](https://img.shields.io/badge/Let's_Meet-cal.com-b16286?style=flat-square&logo=calendar&logoColor=white)](https://cal.com/akrista/30min)
+
+<p align="center">
+  <em>Engineering resilient backend systems, enterprise data pipelines, and reactive web applications.</em>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 **Current Focus**: Lead of Business Intelligence & Data Engineering at **TBTB Global** — architecting high-throughput ETL/ELT pipelines, query optimization, and AI-assisted automation systems.
+- ⚡ **Core Specialties**: Modern **PHP 8.x & Laravel** ecosystem (Octane, Horizon, Reverb, Pulse, Livewire, Filament), containerized cloud infrastructure (**Docker**, **Podman**, **Linux**), and **RPA**.
+- 🌐 **Polyglot & Systems Depth**: Cross-runtime experience with **Python**, **Kotlin**, **Spring Boot**, and **NativePHP**, paired with deep self-hosted edge infrastructure (OpenWrt routing, DNS filtering, and Btrfs storage tuning).
+- 🛠️ **Open Source**: Author of [**Bizkit**](https://github.com/akrista/bizkit) (production Laravel starter kit with FrankenPHP & team tenancy) and gardener of [**Rockery**](https://rockery.notakrista.com).
+- 💬 **Ask me about**: High-concurrency Laravel architectures, PostgreSQL/MySQL query plan tuning, Podman Quadlets, and agentic developer workflows.
+- 📫 **Contact**: [info@notakrista.com](mailto:info@notakrista.com) or book a 30-min chat on [cal.com/akrista/30min](https://cal.com/akrista/30min).
+
+---
+
+### 🚀 Featured Engineering & Open-Source Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/akrista/bizkit">🧰 Bizkit Starter Kit</a></h4>
+      <p>Batteries-included production Laravel starter kit powered by <b>Octane + FrankenPHP</b>, <b>Reverb</b> WebSockets, <b>Livewire 4</b>, <b>Flux UI</b>, and team-scoped authorization.</p>
+      <p><code>Laravel</code> <code>FrankenPHP</code> <code>Livewire</code> <code>Pest</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://rockery.notakrista.com">🪨 Rockery PKB</a></h4>
+      <p>Public digital garden and personal knowledge base built on <b>Quartz 5</b> and <b>Obsidian</b>, continuously built via GitHub Pages.</p>
+      <p><code>Quartz</code> <code>Obsidian</code> <code>TypeScript</code> <code>CI/CD</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://notakrista.com">🛠️ notakrista.com</a></h4>
+      <p>Personal brand landing hub, workbench directory, equipment inventory, and interactive character sheet built on Laravel & Livewire.</p>
+      <p><code>Laravel</code> <code>Filament</code> <code>TailwindCSS</code> <code>Livewire</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Technical Arsenal
+
+<div align="center">
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Polyglot** | `PHP 8.x` `Laravel (Octane, Reverb, Horizon)` `Python` `Kotlin` `Spring Boot` `NativePHP` `REST APIs` |
+| **Frontend & UI** | `Livewire` `Alpine.js` `Tailwind CSS` `Flux UI` `TypeScript` `JavaScript` `Blade` |
+| **Data & Databases** | `PostgreSQL` `MySQL` `Redis` `Query Plan Tuning` `Index Architecture` `ClicData` |
+| **Systems, Cloud & Edge** | `Docker` `Podman Quadlets` `Linux (Fedora/Debian/Arch)` `OpenWrt` `Btrfs (Zstd)` `Kernel/BBR Tuning` `Nginx` `FrankenPHP` `CI/CD` |
+| **Testing & Quality**| `Pest` `PHPUnit` `Larastan` `Pint` `Scramble (OpenAPI)` |
+| **Automation & AI** | `Robotic Process Automation (RPA)` `Model Context Protocol (MCP)` `Agent Workflows` |
+
+</div>
+
+---
+
+### 📊 Telemetry & Live Stats
+
+<div align="center">
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <a href="https://discordapp.com/users/Akrista#1410">
+        <img src="https://lanyard.cnrad.dev/api/130525871277735937" width="100%" style="max-width: 400px;" alt="Akrista's Discord Status" />
+      </a>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <a href="https://app.daily.dev/akrista">
+        <img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=wide&r=s7y" width="100%" style="max-width: 400px;" alt="Akrista's Daily Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 </br>
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista"/>
-<a href="https://www.linkedin.com/in/akrista/"><img src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3" alt="LinkedIn"/></a>
 
-  </br>
+<details>
+<summary>💻 GitHub & Language Stats</summary>
 
-- 🔭 I'm currently working on: **[TBTB Global](https://tbtb.global/)**
+</br>
 
-- 📫 How to reach me: **info@notakrista.com**
-
-- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
+</a>
+</div>
 
 </br>
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
 <tr>
 <td valign="top" width="50%" style="border: none;" align="center">
-
-<a href="https://discordapp.com/users/Akrista#1410">
-<img src="https://lanyard.cnrad.dev/api/130525871277735937" width="100%" style="max-width: 400px;" alt="Akrista's Discord Status" />
-</a>
-
-</td>
-<td valign="top" width="50%" style="border: none;" align="center">
-
-<a href="https://app.daily.dev/akrista">
-<img src="https://api.daily.dev/devcards/v2/nQnOqdJn5BJngPoIsO4MP.png?type=wide&r=s7y" width="100%" style="max-width: 400px;" alt="Akrista's Daily Dev Card"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</br>
-
-<details>
-<summary>💻 GitHub Stats</summary>
-
-</br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
-</a>
-
-</br>
-
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td valign="top" width="50%" style="border: none;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
 </a>
-
 </td>
-<td valign="top" width="50%" style="border: none;">
-
+<td valign="top" width="50%" style="border: none;" align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrista&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Most Used Languages" />
 </a>
-
 </td>
 </tr>
 </table>
 
-**GitHub Profile Stats are generated using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
-
 </br>
+
+<div align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrista&theme=gruvbox" alt="akrista" />
 </a>
-</br> 
-
-**Streak stats are generated using [git.io/streak-stats](https://git.io/streak-stats)**
+</div>
 
 </details>
 
@@ -86,9 +137,11 @@
 
 </br>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="akrista" />
 </a>
+</div>
 
 </br>
 
@@ -177,21 +230,29 @@ Svelte                   2 repos             █░░░░░░░░░░�
 _**NOTE:** Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub._
 
 </details>
+
 </br>
+
 <details>
 <summary>📈 Activity Graph</summary>
+
 </br>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrista&theme=gruvbox" alt="akrista" /></a>
+
 </br>
+
 </details>
+
 </br>
+
 <details>
 <summary>🏆 Holopin Badges</summary>
+
 </br>
 
 [![An image of @akrista's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akrista)](https://holopin.io/@akrista)
 
 </br>
-</details>
 
-</br>
+</details>
